@@ -1,0 +1,6 @@
+@Scope(ConfigurableBeanFactory.SCOPE_SINGLETON)
+@PostConstruct
+@PreDestroy
+@Configuration
+@Bean
+@Bean("idClass")

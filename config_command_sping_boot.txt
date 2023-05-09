@@ -1,0 +1,1 @@
+spring.main.lazy-initialization=true // all beans are lazy ... no beans are created until needed
