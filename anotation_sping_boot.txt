@@ -4,3 +4,19 @@
 @Configuration
 @Bean
 @Bean("idClass")
+
+
+@Entity
+@Table(name="student")
+@Id
+@GeneratedValue(strategy=GenerationType.IDENTITY)
+				 GenerationType.AUTO
+				 GenerationType.SEQUENCE
+				 GenerationType.TAB
+@Column(name="id")
+
+@Transactional
+@Repository
+
+@PathVariable
+@ExceptionHandler

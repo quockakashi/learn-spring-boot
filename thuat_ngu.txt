@@ -1,0 +1,10 @@
+CRUD - create-read-update-delete
+JPA Jakarta Persistency API
+DAO - Data Access Object
+ORM - Object Relational Mapping
+
+Crudapp <-> DAO <-> JPA entity management <-> Data source <-> DB
+
+MIME - Multipurpose Internet Mail-Extension
+
+JSON <-> Java POJO - Plain Old Java Object

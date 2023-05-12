@@ -1,0 +1,4 @@
+mysql_connector-j
+spring-boot-start-data-jpa
+spring-boot-starter-web
+sprint-boot-devtools
